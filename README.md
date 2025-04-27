@@ -1,5 +1,5 @@
-# Aris-prompt-text
-**适用于天童爱丽丝的AI提示词文本**
+
+# 适用于天童爱丽丝的AI提示词文本
 
 ![支持数量](https://img.shields.io/badge/支持数量-1-blue?style=flat-square)
 ![状态](https://img.shields.io/badge/状态-补齐设定中-blue?style=flat-square)
