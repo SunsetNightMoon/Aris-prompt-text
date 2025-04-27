@@ -4,7 +4,7 @@
 ![支持数量](https://img.shields.io/badge/支持数量-1-blue?style=flat-square)
 ![状态](https://img.shields.io/badge/状态-补齐设定中-blue?style=flat-square)
 
-![文本语言](https://img.shields.io/badge/语言-简体中文-red?style=flat-square)
+![文本语言](https://img.shields.io/badge/文本语言-简体中文-red?style=flat-square)
 
 ---
 
